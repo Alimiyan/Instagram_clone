@@ -112,3 +112,31 @@
     width: 275px;
     padding: 36px;
 }
+#footer{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+.ftr-one{
+    text-decoration: none;
+    color: gray;
+    padding: 6px;
+}
+#ftr-two1{
+    text-decoration: none;
+    color: gray;
+    padding: 6px;
+    border: none;
+}
+#ftr-two2{
+    text-decoration: none;
+    color: gray;
+    padding: 6px;
+}
+.footer-2{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}

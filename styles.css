@@ -20,6 +20,7 @@
 }
 .left{
     padding: 36px;
+    
 }
 .h2{
     font-family: Bill;
@@ -77,7 +78,10 @@
 
 }
 .shw{
-    margin-left: -52px;
+    margin-left: -48px;
+    border: none;
+    background: none;
+    visibility: hidden;
 }
 .or{
     color: grey;
